@@ -1,3 +1,7 @@
 apple
 orange
 chirry
+checken
+meat
+milk
+egg
